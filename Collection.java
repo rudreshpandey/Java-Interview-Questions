@@ -1,4 +1,4 @@
-
+/* 
 What is Java Collection Framework?
     A java collection framework is a collection of interfaces and classes which are used to store and
     process data efficiently, as a Collection is something which is used to store Data objects.
@@ -373,3 +373,4 @@ What is CopyOnWriteArrayList? How it is different than ArrayList?
 
 What is BlockingQueue?
     <lecture>
+*/

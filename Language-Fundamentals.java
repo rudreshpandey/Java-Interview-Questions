@@ -1,5 +1,4 @@
-//Identifiers
-
+/*//Identifiers
 L1-00:35 What are identifiers in java?
     Name used to identify the class or a variable or A label or a method or a package.. such things
     is called an identifier
@@ -275,3 +274,4 @@ L4-05:36 Can we change signature of main method?⭐️
 L5-07:10 Can we make main method final in java?⭐️
     Answer is yes, we can declare main method as final.
     This makes its implementation final; any other Class would not be able to change it.
+    */
